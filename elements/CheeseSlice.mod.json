@@ -1,0 +1,24 @@
+{
+  "_fv": 5,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "cheesesliceitem",
+    "customModelName": "Normal",
+    "name": "Cheese Slice",
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 16,
+    "nutritionalValue": 2,
+    "saturation": 0.3,
+    "eatingSpeed": 100,
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "CheeseSliceFoodEaten"
+    }
+  }
+}
